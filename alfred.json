@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Alfred",
   "author": "Mark",
-  "website": "",
+  "website": "https://github.com/markslewis62/alfred-wake-word",
   "model": "alfred.tflite",
   "version": 2,
   "micro": {
